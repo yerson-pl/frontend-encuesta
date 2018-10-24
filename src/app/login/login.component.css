@@ -1,0 +1,42 @@
+.login-register{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center left;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10% 0;
+  position: fixed;
+
+}
+
+.login-card{
+  width: 400px;
+  margin: 0 auto;
+}
+
+.login-sidebar {
+  padding: 0px;
+  margin-top: 0;
+}
+
+.login-sidebar .login-card {
+  right: 0px;
+  position: absolute;
+  height: 100%;
+}
+
+img{
+  width: 45%;
+  margin-left: 60px;
+}
+
+.form-group{
+  padding: 40px;
+  margin-left: 50px;
+  margin-bottom: 5px,
+}
+
+.login-footer{
+  margin-left: 95px;
+}
